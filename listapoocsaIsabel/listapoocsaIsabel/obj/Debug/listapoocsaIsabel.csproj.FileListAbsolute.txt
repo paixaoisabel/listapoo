@@ -1,0 +1,8 @@
+C:\akira.lpg\listapoocsaIsabel\listapoocsaIsabel\bin\Debug\listapoocsaIsabel.exe.config
+C:\akira.lpg\listapoocsaIsabel\listapoocsaIsabel\bin\Debug\listapoocsaIsabel.exe
+C:\akira.lpg\listapoocsaIsabel\listapoocsaIsabel\bin\Debug\listapoocsaIsabel.pdb
+C:\akira.lpg\listapoocsaIsabel\listapoocsaIsabel\obj\Debug\listapoocsaIsabel.csproj.AssemblyReference.cache
+C:\akira.lpg\listapoocsaIsabel\listapoocsaIsabel\obj\Debug\listapoocsaIsabel.csproj.SuggestedBindingRedirects.cache
+C:\akira.lpg\listapoocsaIsabel\listapoocsaIsabel\obj\Debug\listapoocsaIsabel.csproj.CoreCompileInputs.cache
+C:\akira.lpg\listapoocsaIsabel\listapoocsaIsabel\obj\Debug\listapoocsaIsabel.exe
+C:\akira.lpg\listapoocsaIsabel\listapoocsaIsabel\obj\Debug\listapoocsaIsabel.pdb
